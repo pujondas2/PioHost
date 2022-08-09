@@ -110,7 +110,10 @@
  
 /* small mobile :320px. */
 @media (max-width: 767px) {
-
+    .header-area {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
     .slider-area {
         height: 768px;
     }
